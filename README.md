@@ -1,4 +1,4 @@
-# Sigyn
+# inviteozone # Sigyn
 
 A Limnoria plugin to handle spam and abuse on a network level.
 
