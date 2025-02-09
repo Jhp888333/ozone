@@ -1,4 +1,4 @@
-# inviteozone # Sigyn
+# inviteozone # Revert.restore factory components. gitignore 
 
 A Limnoria plugin to handle spam and abuse on a network level.
 
